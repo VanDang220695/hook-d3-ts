@@ -1,0 +1,19 @@
+{
+	"name": "hook-d3-ts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Dang Nguyen",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VanDang220695/hook-d3-ts"
+	},
+	"dependencies": {
+		"super-small-tiny-npm-deploy": "^3.3.1",
+		"typescript": "^5.4.4"
+	}
+}
